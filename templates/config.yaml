@@ -1,0 +1,3 @@
+goatman:
+    extension: .svg
+    output: build/goatman
