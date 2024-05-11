@@ -1,9 +1,18 @@
-goatman:
+aodraelgoat:
     extension: .svg
-    output: build/goatman
+    output: build/aodraelgoat
 debian:
     extension: .svg
     output: build/debian
+linux-mint:
+    extension: .svg
+    output: build/linux-mint
+arch:
+    extension: .svg
+    output: build/arch
+dinosaur:
+    extension: .svg
+    output: build/dinosaur
 ascii-cat:
-  extension: .svg
-  output: build/ascii-cat
+    extension: .svg
+    output: build/ascii-cat

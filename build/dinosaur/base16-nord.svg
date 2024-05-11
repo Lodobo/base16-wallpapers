@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 
+Base16-wallpaper project by Lodobo, https://github.com/Lodobo
+Scheme: Nord by arcticicestudio
+
+Logo: Google Blocked Dinosaur
+Author: Salva2364 (Original), OmegaFallon (Vector) via Wikimedia Commons.
+Licence: CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>
+-->
+
+<svg height="1080" version="1.1" viewBox="0 0 1920 1080" width="1920" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#2e3440" height="100%" width="100%"/>
+<g transform="translate(-600 -600)">
+<svg height="1200" shape-rendering="crispEdges" viewBox="0 0 130 90" width="1200" x="50%" xmlns="http://www.w3.org/2000/svg" y="50%">
+<g fill="#bf616a" transform="translate(-20 -30)">
+<path d="M32 101h16v1H32zm0 7h4v1h-4zm6-3h4v1h-4zm8 3h2v1h-2zm22-7h28v1H68zm5 6h1v1h-1zm7 1h4v1h-4zm7-4h3v1h-3z"/>
+<path d="M64 66v2h-2v13h-2v2h-3v2h-3v2h-2v2h-4v-2h-2v-2h-2v-4h-2v12h2v2h2v2h2v2h2v2h2v8h4v-2h-2v-2h2v-2h2v-2h2v2h2v6h4v-2h-2v-8h2v-2h2v-3h2v-7h2v2h2v-4h-4v-4h8v-2h4V68h-2v-2m-14 3h4v4h-4m1-3h2v2h-2"/>
+<path d="M90 86v1h-1v1h-1v4h1v1h1v1h4v-1h1v-1h1v-4h-1v-1h-1v-1m0-5h1v1h-1zm0 2h1v1h-1zm2-2h1v1h-1zm0 2h1v1h-1zm1-5h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm1-1h1v1h-1zm0 4h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm1-11h1v1h-1zm0 6h1v1h-1zm0 2h1v1h-1zm1-9h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm1-3h1v1h-1zm0 4h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm1-11h1v1h-1zm0 4h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm1-7h1v1h-1zm0 6h1v1h-1zm1-10h1v1h-1zm0 5h1v1h-1zm0 2h1v1h-1zm1-5h1v1h-1zm0 2h1v1h-1zm1-5h1v1h-1zm0 2h1v1h-1zm1-3h1v1h-1zm0 4h1v1h-1zm1-2h1v1h-1z" id="a"/>
+<use href="#a" transform="translate(5 -29)"/>
+<use href="#a" transform="translate(30 -16)"/>
+</g>
+</svg>
+</g>
+</svg>
