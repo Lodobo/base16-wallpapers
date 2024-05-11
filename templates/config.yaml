@@ -1,3 +1,9 @@
 goatman:
     extension: .svg
     output: build/goatman
+debian:
+    extension: .svg
+    output: build/debian
+ascii-cat:
+  extension: .svg
+  output: build/ascii-cat
