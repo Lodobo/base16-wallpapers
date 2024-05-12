@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 
+Base16-wallpaper project by Lodobo, https://github.com/Lodobo
+Scheme: Woodland by Jay Cornwall (https://jcornwall.com)
+
+Logo: Squares (c) Lodobo 2024
+
+-->
+
+<svg version="1.1" viewBox="0 0 1920 1080" width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#231e18" height="100%" width="100%" />
+
+    <defs>
+    <svg id="square" width="300" height="300" viewBox="0 0 500 500">
+    <filter id="shadow">
+      <feDropShadow dx="-10" dy="10" stdDeviation="3" flood-opacity="0.3" flood-color="#000000" />
+    </filter>    
+    <rect class="square_jr" x="50%" y="50%" height="300" width="300" transform="rotate(45 250 250) translate(-150 -150)" filter="url(#shadow)" />
+    </svg>
+    </defs>
+    <g id="drawing" transform="translate(360 390)" >
+    <use href="#square" transform="translate(0 0)" fill="#d35c5c" />
+    <use href="#square" transform="translate(150 0)" fill="#ca7f32" />
+    <use href="#square" transform="translate(300 0)" fill="#e0ac16" />
+    <use href="#square" transform="translate(450 0)" fill="#b7ba53" />
+    <use href="#square" transform="translate(600 0)" fill="#6eb958" />
+    <use href="#square" transform="translate(750 0)" fill="#88a4d3" />
+    <use href="#square" transform="translate(900 0)" fill="#bb90e2" />
+    </g>
+</svg>

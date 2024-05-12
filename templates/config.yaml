@@ -1,18 +1,21 @@
 aodraelgoat:
-    extension: .svg
-    output: build/aodraelgoat
+  extension: .svg
+  output: build/aodraelgoat
 debian:
-    extension: .svg
-    output: build/debian
+  extension: .svg
+  output: build/debian
 linux-mint:
-    extension: .svg
-    output: build/linux-mint
+  extension: .svg
+  output: build/linux-mint
 arch:
-    extension: .svg
-    output: build/arch
+  extension: .svg
+  output: build/arch
 dinosaur:
-    extension: .svg
-    output: build/dinosaur
+  extension: .svg
+  output: build/dinosaur
 ascii-cat:
-    extension: .svg
-    output: build/ascii-cat
+  extension: .svg
+  output: build/ascii-cat
+squares:
+  extension: .svg
+  output: build/squares
