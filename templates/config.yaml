@@ -19,3 +19,9 @@ ascii-cat:
 squares:
   extension: .svg
   output: build/squares
+pages_01:
+  extension: .svg
+  output: build/pages_01
+pages_02:
+  extension: .svg
+  output: build/pages_02
