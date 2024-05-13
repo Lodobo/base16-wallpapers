@@ -25,3 +25,6 @@ pages_01:
 pages_02:
   extension: .svg
   output: build/pages_02
+hex-grid:
+  extension: .svg
+  output: build/hex-grid
