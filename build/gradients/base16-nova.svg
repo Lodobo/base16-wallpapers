@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 
+Base16-wallpaper project by Lodobo, https://github.com/Lodobo
+Scheme: Nova by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+
+Wallpaper: Linear gradients (c) Lodobo 2024
+
+-->
+
+<svg width="1920" height="1080" viewBox="0 0 2560 1440" version="1.1" xmlns="http://www.w3.org/2000/svg">    
+    <defs>
+        <linearGradient x1="1%" y1="30%" id="grad1" gradientTransform="rotate(145)">
+            <stop offset="0%" stop-color="#3c4c55" />
+            <stop offset="100%" stop-color="#556873" />
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" id="grad2" gradientTransform="rotate(0)">
+            <stop offset="0%" stop-color="#3c4c55" />
+            <stop offset="100%" stop-color="#556873" />
+        </linearGradient>
+        <linearGradient x1="60%" y1="90%" id="grad3" gradientTransform="rotate(0)">
+            <stop offset="0%" stop-color="#3c4c55" />
+            <stop offset="100%" stop-color="#556873" />
+        </linearGradient>
+    </defs>
+
+    <rect height="100%" width="100%" fill="#3c4c55" />
+    <polygon fill="url('#grad1')" points="0 0, 200 0, 2200 1440, 0 1440" />
+    <polygon fill="#3c4c55" points="400 0, 1700 0, 2200 1440" />
+    <polygon fill="url('#grad2')" points="1500 0, 1800 0, 2560 1100 , 2560 1440, 2200 1440" />
+    <polygon fill="#3c4c55" points="2200 0, 2560 0, 2560 1100" />
+    <polygon fill="#3c4c55" points="0 1100, 0 1440, 1600 1440" />
+</svg>

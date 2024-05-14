@@ -28,3 +28,6 @@ pages_02:
 hex-grid:
   extension: .svg
   output: build/hex-grid
+gradients:
+  extension: .svg
+  output: build/gradients
