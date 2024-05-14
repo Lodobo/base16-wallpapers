@@ -19,18 +19,21 @@ ascii-cat:
 squares:
   extension: .svg
   output: build/squares
-pages_01:
+pages_1:
   extension: .svg
-  output: build/pages_01
-pages_02:
+  output: build/pages_1
+pages_2:
   extension: .svg
-  output: build/pages_02
+  output: build/pages_2
 hex-grid:
   extension: .svg
   output: build/hex-grid
-gradients:
+gradient_1:
   extension: .svg
-  output: build/gradients
+  output: build/gradient_1
+gradient_2:
+  extension: .svg
+  output: build/gradient_2
 floral_1:
   extension: .svg
   output: build/floral_1
