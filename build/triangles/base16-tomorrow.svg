@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 
+Base16-wallpaper project by Lodobo, https://github.com/Lodobo
+Scheme: Atelier Cave Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+Wallpaper: Rainbow triangles (c) Lodobo 2024
+
+-->
+
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="triangle" width="30%" height="30%" viewBox="0 0 100 100">
+            <polygon points="50 15, 100 100, 0 100" />
+        </symbol>
+        <linearGradient id="grad_1" x1="50%" y1="0%" x2="50%" y2="100%">
+            <stop offset="0%" stop-color="#c82829" stop-opacity="1" />
+            <stop offset="55%" stop-color="#f5871f" stop-opacity="1" />
+            <stop offset="100%" stop-color="#4271ae" stop-opacity="1" />
+        </linearGradient>
+
+        <mask id="mask" x="0" y="0" width="1920" height="1080">
+            <rect x="0" y="0" width="100%" height="100%" fill="white" />
+            <g transform="translate(-500 -500) ">
+                <svg width="1000" height="1000" x="50%" y="50%">
+                    <rect width="100%" height="100%" fill="white" />
+                    <g fill="black" transform="translate(90 90) scale(0.9)">
+                        <use href="#triangle" transform="translate(20 10)" />
+                        <use href="#triangle" transform="translate(435 340) scale(-0.7 -0.7)" />
+                        <use href="#triangle" transform="translate(375 130) scale(0.4)" />
+                        <use href="#triangle" transform="translate(140 340) scale(0.3)" />
+                        <use href="#triangle" transform="translate(630 770) scale(-1.5)" />
+                        <use href="#triangle" transform="translate(470 150) scale(1.5)" />
+                        <use href="#triangle" transform="translate(770 910) scale(-1)" />
+                        <use href="#triangle" transform="translate(360 610) scale(0.8)" />
+                        <use href="#triangle" transform="translate(420 840) scale(-0.4)" />
+                    </g>
+                </svg>
+            </g>
+        </mask>
+    </defs>
+    <svg id="background-gradient" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
+        <rect width="100%" height="100%" fill="url('#grad_1')" />
+    </svg>
+    <rect width="100%" height="100%" fill="#ffffff" mask="url(#mask)" />
+</svg>
+
+
+<!--
+qksjlqksjqs
+qksljqlsj
+qskqlksj
+
+-->
