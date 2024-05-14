@@ -34,6 +34,9 @@ gradient_1:
 gradient_2:
   extension: .svg
   output: build/gradient_2
+gradient_3:
+  extension: .svg
+  output: build/gradient_3
 floral_1:
   extension: .svg
   output: build/floral_1
