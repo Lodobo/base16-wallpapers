@@ -31,3 +31,9 @@ hex-grid:
 gradients:
   extension: .svg
   output: build/gradients
+floral:
+  extension: .svg
+  output: build/floral
+heart-chequerboard:
+  extension: .svg
+  output: build/heart-chequerboard
