@@ -13,9 +13,12 @@ arch:
 dinosaur:
   extension: .svg
   output: build/dinosaur
-ascii-cat:
+ascii-cat_1:
   extension: .svg
-  output: build/ascii-cat
+  output: build/ascii-cat_1
+ascii-cat_2:
+  extension: .svg
+  output: build/ascii-cat_2
 squares:
   extension: .svg
   output: build/squares
