@@ -49,6 +49,9 @@ floral_2:
 heart-chequerboard:
   extension: .svg
   output: build/heart-chequerboard
+clover:
+  extension: .svg
+  output: build/clover
 triangles:
   extension: .svg
   output: build/triangles
