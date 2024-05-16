@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 
+Base16-wallpaper project by Lodobo, https://github.com/Lodobo
+Scheme: Material by Nate Peterson
+
+Wallpaper: hearts (c) Lodobo
+-->
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+    <defs>
+        <symbol id="solid-heart" width="100" height="100" viewBox="0 0 100 100">
+            <path stroke="none"
+                d="m 100,33.7 c 0,35.2 -48.8,60.8 -50,60.8 -1.1,0 -50,-25.6 -50,-57 0,-15.4 12.3,-32 30,-32 16.1,0 16.1,5.1 20,9.5 3.9,-4.4 8.3,-9.5 20,-9.5 14.4,-0.16 30,11.7 30,28.2 z" />
+        </symbol>
+    </defs>
+    <rect height="100%" width="100%" fill="#263238" />
+    <g transform="translate(0 -50)">
+        <use href="#solid-heart" x="" y="50%" fill="#f07178" transform="translate(610)" />
+        <use href="#solid-heart" x="" y="50%" fill="#f78c6c" transform="translate(730)" />
+        <use href="#solid-heart" x="" y="50%" fill="#ffcb6b" transform="translate(850)" />
+        <use href="#solid-heart" x="" y="50%" fill="#c3e88d" transform="translate(970)" />
+        <use href="#solid-heart" x="" y="50%" fill="#89ddff" transform="translate(1090)" />
+        <use href="#solid-heart" x="" y="50%" fill="#82aaff" transform="translate(1210)" />
+    </g>
+</svg>

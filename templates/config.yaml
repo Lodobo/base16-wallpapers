@@ -31,6 +31,9 @@ ascii-cat_2:
 squares:
   extension: .svg
   output: build/squares
+hearts:
+  extension: .svg
+  output: build/hearts
 pages_1:
   extension: .svg
   output: build/pages_1
