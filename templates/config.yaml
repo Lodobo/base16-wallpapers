@@ -7,9 +7,12 @@ debian:
 linux-mint:
   extension: .svg
   output: build/linux-mint
-arch:
+arch_1:
   extension: .svg
-  output: build/arch
+  output: build/arch_1
+arch_2:
+  extension: .svg
+  output: build/arch_2
 dinosaur:
   extension: .svg
   output: build/dinosaur
