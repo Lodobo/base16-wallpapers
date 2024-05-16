@@ -4,9 +4,12 @@ aodraelgoat:
 debian:
   extension: .svg
   output: build/debian
-linux-mint:
+linux-mint_1:
   extension: .svg
-  output: build/linux-mint
+  output: build/linux-mint_1
+linux-mint_2:
+  extension: .svg
+  output: build/linux-mint_2
 arch_1:
   extension: .svg
   output: build/arch_1
