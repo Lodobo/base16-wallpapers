@@ -13,6 +13,9 @@ arch_1:
 arch_2:
   extension: .svg
   output: build/arch_2
+arch_3:
+  extension: .svg
+  output: build/arch_3
 dinosaur:
   extension: .svg
   output: build/dinosaur
