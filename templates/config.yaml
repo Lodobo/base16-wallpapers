@@ -67,3 +67,6 @@ clover:
 triangles:
   extension: .svg
   output: build/triangles
+stars:
+  extension: .svg
+  output: build/stars

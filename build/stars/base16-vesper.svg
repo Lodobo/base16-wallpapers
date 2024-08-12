@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 
+Base16-wallpaper project by Lodobo, https://github.com/Lodobo
+Scheme: Vesper by FormalSnake (https://github.com/formalsnake)
+
+Wallpaper: Lucky Stars (c) Lodobo 2024
+
+-->
+
+<svg version="1.1" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="big_star_5" viewBox="0 0 500 500">
+            <path mask="url(#star_outline_cutout)" transform="rotate(5 250 250)"
+                d="M 0,250 148.873,176.527 172.746,12.2358 288.627,131.118 452.254,103.054 375,250 452.254,396.946 288.627,368.882 172.746,487.764 148.873,323.473 0,250 z" />
+        </symbol>
+        <symbol id="big_star_10" viewBox="0 0 500 500">
+            <path mask="url(#star_outline_cutout)" transform="rotate(10 250 250)"
+                d="M 0,250 148.873,176.527 172.746,12.2358 288.627,131.118 452.254,103.054 375,250 452.254,396.946 288.627,368.882 172.746,487.764 148.873,323.473 0,250 z" />
+        </symbol>
+        <symbol id="big_star_20" viewBox="0 0 500 500">
+            <path mask="url(#star_outline_cutout)" transform="rotate(20 250 250)"
+                d="M 0,250 148.873,176.527 172.746,12.2358 288.627,131.118 452.254,103.054 375,250 452.254,396.946 288.627,368.882 172.746,487.764 148.873,323.473 0,250 z" />
+        </symbol>
+        <symbol id="big_star_30" viewBox="0 0 500 500">
+            <path mask="url(#star_outline_cutout)" transform="rotate(30 250 250)"
+                d="M 0,250 148.873,176.527 172.746,12.2358 288.627,131.118 452.254,103.054 375,250 452.254,396.946 288.627,368.882 172.746,487.764 148.873,323.473 0,250 z" />
+        </symbol>
+        <symbol id="small_star_minus_5" viewBox="0 0 500 500">
+            <path transform="rotate(-5 250 250)"
+                d="M 0,250 172.739,193.867 V 12.2358 L 279.511,159.174 452.254,103.054 345.5,250 452.254,396.946 279.511,340.826 172.746,487.764 172.739,306.133 0,250 z" />
+        </symbol>
+        <symbol id="small_star_0" viewBox="0 0 500 500">
+            <path transform="rotate(0 250 250)"
+                d="M 0,250 172.739,193.867 V 12.2358 L 279.511,159.174 452.254,103.054 345.5,250 452.254,396.946 279.511,340.826 172.746,487.764 172.739,306.133 0,250 z" />
+        </symbol>
+        <symbol id="small_star_5" viewBox="0 0 500 500">
+            <path transform="rotate(5 250 250)"
+                d="M 0,250 172.739,193.867 V 12.2358 L 279.511,159.174 452.254,103.054 345.5,250 452.254,396.946 279.511,340.826 172.746,487.764 172.739,306.133 0,250 z" />
+        </symbol>
+        <symbol id="small_star_10" viewBox="0 0 500 500">
+            <path transform="rotate(10 250 250)"
+                d="M 0,250 172.739,193.867 V 12.2358 L 279.511,159.174 452.254,103.054 345.5,250 452.254,396.946 279.511,340.826 172.746,487.764 172.739,306.133 0,250 z" />
+        </symbol>
+        <symbol id="small_star_20" viewBox="0 0 500 500">
+            <path transform="rotate(20 250 250)"
+                d="M 0,250 172.739,193.867 V 12.2358 L 279.511,159.174 452.254,103.054 345.5,250 452.254,396.946 279.511,340.826 172.746,487.764 172.739,306.133 0,250 z" />
+        </symbol>
+        <symbol id="small_star_30" viewBox="0 0 500 500">
+            <path transform="rotate(30 250 250)"
+                d="M 0,250 172.739,193.867 V 12.2358 L 279.511,159.174 452.254,103.054 345.5,250 452.254,396.946 279.511,340.826 172.746,487.764 172.739,306.133 0,250 z" />
+        </symbol>
+        <symbol id="small_star_35" viewBox="0 0 500 500">
+            <path transform="rotate(35 250 250)"
+                d="M 0,250 172.739,193.867 V 12.2358 L 279.511,159.174 452.254,103.054 345.5,250 452.254,396.946 279.511,340.826 172.746,487.764 172.739,306.133 0,250 z" />
+        </symbol>
+        <mask id="star_outline_cutout">
+            <rect fill="white" width="100%" height="100%" />
+            <path fill="none" stroke="black" stroke-width="15"
+                d="m 125,250 74.032,-37.03 12.341,-81.851 58.095,58.964 81.659,-13.556 L 313,250 l 38.127,73.473 -81.659,-13.556 -58.095,58.965 -12.341,-81.852 z" />
+        </mask>
+    </defs>
+    <rect x="0" y="0" width="100%" height="100%" fill="#101010" />
+
+    <g fill="#de6e6e">
+        <use href="#big_star_20" width="300" height="300" x="950" y="250" />
+        <use href="#big_star_5" width="200" height="200" x="100" y="100" />
+        <use href="#big_star_10" width="200" height="200" x="650" y="790" />
+        <use href="#big_star_30" width="400" height="400" x="1500" y="650" />
+        <use href="#big_star_30" width="200" height="200" x="500" y="500" />
+        <use href="#big_star_30" width="300" height="300" x="330" y="-60" />
+        <use href="#big_star_5" width="350" height="350" x="-100" y="640" />
+        <use href="#big_star_5" width="200" height="200" x="1500" y="180" />
+        <use href="#big_star_5" width="200" height="200" x="1750" y="-50" />
+        <use href="#small_star_minus_5" width="130" height="130" x="600" y="200" />
+        <use href="#small_star_20" width="90" height="90" x="990" y="100" />
+        <use href="#small_star_minus_5" width="90" height="90" x="1080" y="590" />
+        <use href="#small_star_minus_5" width="90" height="90" x="400" y="400" />
+        <use href="#small_star_20" width="90" height="90" x="350" y="700" />
+        <use href="#small_star_35" width="90" height="90" x="740" y="480" />
+        <use href="#small_star_minus_5" width="90" height="90" x="80" y="400" />
+        <use href="#small_star_0" width="90" height="90" x="580" y="950" />
+        <use href="#small_star_30" width="140" height="140" x="1000" y="780" />
+        <use href="#small_star_30" width="90" height="90" x="1300" y="880" />
+        <use href="#small_star_30" width="90" height="90" x="1500" y="480" />
+        <use href="#small_star_20" width="120" height="120" x="1270" y="650" />
+        <use href="#small_star_30" width="90" height="90" x="700" y="-30" />
+        <use href="#small_star_30" width="150" height="150" x="1800" y="300" />
+        <use href="#small_star_5" width="90" height="90" x="1600" y="80" />
+        <use href="#small_star_30" width="90" height="90" x="1300" y="200" />
+    </g>
+
+</svg>
