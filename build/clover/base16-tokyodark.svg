@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Tokyodark by Tiagovla (https://github.com/tiagovla/)
+Scheme: Tokyodark by Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 
 Wallpaper: clover pattern.
 
@@ -37,7 +37,7 @@ Assets:
             <use href="#clover" fill="black" transform="scale(0.7) translate(21 21)" />
         </mask>
         <pattern id="clover-pattern" width="600" height="600" patternTransform="scale(0.32)" patternUnits="userSpaceOnUse" >
-            <g stroke="none" fill="#a485dd">
+            <g stroke="none" fill="#ee6d85">
                 <use href="#clover" transform="translate(-50 -50)" />
                 <use href="#clover" transform="translate(250 -50)" />
                 <use href="#clover" transform="translate(550 -50)" />

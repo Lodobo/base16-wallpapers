@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Tokyodark by Tiagovla (https://github.com/tiagovla/)
+Scheme: Tokyodark by Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 
 Wallpaper: Diagonal gradient (c) Lodobo 2024
 
@@ -10,11 +10,11 @@ Wallpaper: Diagonal gradient (c) Lodobo 2024
 <svg width="1920" height="1080" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <linearGradient id="grad_1" x1="70%" y1="0%" x2="30%" y2="100%">
-            <stop offset="0%" stop-color="#a485dd" stop-opacity="1"/>
+            <stop offset="0%" stop-color="#ee6d85" stop-opacity="1"/>
             <stop offset="100%" stop-color="#11121d" stop-opacity="0"/>
         </linearGradient>
         <linearGradient id="grad_2" x1="30%" y1="100%" x2="70%" y2="0%">
-            <stop offset="0%" stop-color="#a485dd" stop-opacity="1"/>
+            <stop offset="0%" stop-color="#ee6d85" stop-opacity="1"/>
             <stop offset="100%" stop-color="#11121d" stop-opacity="0"/>
         </linearGradient>
     </defs>

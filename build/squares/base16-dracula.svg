@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Dracula by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+Scheme: Dracula by Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
 
 Logo: Squares (c) Lodobo 2024
 
 -->
 
 <svg version="1.1" viewBox="0 0 1920 1080" width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#282936" height="100%" width="100%" />
+    <rect fill="#282a36" height="100%" width="100%" />
 
     <defs>
     <svg id="square" width="300" height="300" viewBox="0 0 500 500">
@@ -19,12 +19,12 @@ Logo: Squares (c) Lodobo 2024
     </svg>
     </defs>
     <g id="drawing" transform="translate(360 390)" >
-    <use href="#square" transform="translate(0 0)" fill="#ea51b2" />
-    <use href="#square" transform="translate(150 0)" fill="#b45bcf" />
-    <use href="#square" transform="translate(300 0)" fill="#00f769" />
-    <use href="#square" transform="translate(450 0)" fill="#ebff87" />
-    <use href="#square" transform="translate(600 0)" fill="#a1efe4" />
-    <use href="#square" transform="translate(750 0)" fill="#62d6e8" />
-    <use href="#square" transform="translate(900 0)" fill="#b45bcf" />
+    <use href="#square" transform="translate(0 0)" fill="#ff5555" />
+    <use href="#square" transform="translate(150 0)" fill="#ffb86c" />
+    <use href="#square" transform="translate(300 0)" fill="#f1fa8c" />
+    <use href="#square" transform="translate(450 0)" fill="#50fa7b" />
+    <use href="#square" transform="translate(600 0)" fill="#8be9fd" />
+    <use href="#square" transform="translate(750 0)" fill="#80bfff" />
+    <use href="#square" transform="translate(900 0)" fill="#ff79c6" />
     </g>
 </svg>

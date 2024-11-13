@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Everforest Dark Hard by Oskar Liew (https://github.com/OskarLiew)
+Scheme: Everforest Dark Hard by Sainnhe Park (https://github.com/sainnhe)
 
 Wallpaper: hearts (c) Lodobo
 -->
@@ -14,11 +14,11 @@ Wallpaper: hearts (c) Lodobo
     </defs>
     <rect height="100%" width="100%" fill="#272e33" />
     <g transform="translate(0 -50)">
-        <use href="#solid-heart" x="" y="50%" fill="#7fbbb3" transform="translate(610)" />
-        <use href="#solid-heart" x="" y="50%" fill="#d699b6" transform="translate(730)" />
+        <use href="#solid-heart" x="" y="50%" fill="#e67e80" transform="translate(610)" />
+        <use href="#solid-heart" x="" y="50%" fill="#e69875" transform="translate(730)" />
         <use href="#solid-heart" x="" y="50%" fill="#dbbc7f" transform="translate(850)" />
-        <use href="#solid-heart" x="" y="50%" fill="#83c092" transform="translate(970)" />
-        <use href="#solid-heart" x="" y="50%" fill="#e69875" transform="translate(1090)" />
-        <use href="#solid-heart" x="" y="50%" fill="#a7c080" transform="translate(1210)" />
+        <use href="#solid-heart" x="" y="50%" fill="#a7c080" transform="translate(970)" />
+        <use href="#solid-heart" x="" y="50%" fill="#83c092" transform="translate(1090)" />
+        <use href="#solid-heart" x="" y="50%" fill="#7fbbb3" transform="translate(1210)" />
     </g>
 </svg>

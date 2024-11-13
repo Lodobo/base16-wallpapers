@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Tokyodark by Tiagovla (https://github.com/tiagovla/)
+Scheme: Tokyodark by Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 
 Logo: Squares (c) Lodobo 2024
 
@@ -19,12 +19,12 @@ Logo: Squares (c) Lodobo 2024
     </svg>
     </defs>
     <g id="drawing" transform="translate(360 390)" >
-    <use href="#square" transform="translate(0 0)" fill="#a485dd" />
-    <use href="#square" transform="translate(150 0)" fill="#a485dd" />
-    <use href="#square" transform="translate(300 0)" fill="#7199ee" />
-    <use href="#square" transform="translate(450 0)" fill="#d7a65f" />
-    <use href="#square" transform="translate(600 0)" fill="#a485dd" />
-    <use href="#square" transform="translate(750 0)" fill="#95c561" />
-    <use href="#square" transform="translate(900 0)" fill="#ee6d85" />
+    <use href="#square" transform="translate(0 0)" fill="#ee6d85" />
+    <use href="#square" transform="translate(150 0)" fill="#f6955b" />
+    <use href="#square" transform="translate(300 0)" fill="#d7a65f" />
+    <use href="#square" transform="translate(450 0)" fill="#95c561" />
+    <use href="#square" transform="translate(600 0)" fill="#9fbbf3" />
+    <use href="#square" transform="translate(750 0)" fill="#7199ee" />
+    <use href="#square" transform="translate(900 0)" fill="#a485dd" />
     </g>
 </svg>

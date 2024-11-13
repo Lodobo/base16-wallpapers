@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Everforest Dark Hard by Oskar Liew (https://github.com/OskarLiew)
+Scheme: Everforest Dark Hard by Sainnhe Park (https://github.com/sainnhe)
 
 Logo: Hexagonal grid (c) Lodobo 2024
 
@@ -15,7 +15,7 @@ Logo: Hexagonal grid (c) Lodobo 2024
       <feDropShadow dx="2" dy="2" stdDeviation="1" flood-opacity="0.5" flood-color="#000000" />
     </filter>  
     
-        <g fill="none" stroke="#7fbbb3" stroke-width="1">
+        <g fill="none" stroke="#e67e80" stroke-width="1">
             <pattern id="hex-grid-1" width="90" height="52" patternUnits="userSpaceOnUse">
                 <path d="M 60 0 H 30 L 15 26 l 15 26 h 30 l 15-26 z M 75 26 h 15 M 0 26 h 15 M 75 26 h 15 M 0 26 h 15" />
             </pattern>
@@ -32,7 +32,7 @@ Logo: Hexagonal grid (c) Lodobo 2024
                 <path d="M 15 23 L 45 23 M 15 23 L 0 0 M 15 23 L 0 45 M 45 23 L 60 46 M 45 23 L 60 0 M 60 0 L 90 0 z" />
             </pattern>
         </g>
-        <polygon id="hexagon" fill="none" stroke="#7fbbb3" stroke-wdith="1"  points="40 0, 20 30, -20 30, -40 0, -20 -30, 20 -30, 40 0" />
+        <polygon id="hexagon" fill="none" stroke="#e67e80" stroke-wdith="1"  points="40 0, 20 30, -20 30, -40 0, -20 -30, 20 -30, 40 0" />
     </defs>
 
     <!-- <rect width="100%" height="100%" fill="url(#hex-grid-1)"/> -->

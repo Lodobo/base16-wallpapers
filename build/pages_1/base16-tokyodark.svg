@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Tokyodark by Tiagovla (https://github.com/tiagovla/)
+Scheme: Tokyodark by Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 
 Wallpaper: Pages (c) Lodobo 2024
 -->
@@ -15,8 +15,8 @@ Wallpaper: Pages (c) Lodobo 2024
     </filter>    
     <rect id="square" x="0" y="0" height="2000" width="2000" filter="url(#shadow)" transform="rotate(10 960 540)" />
     </defs>
-    <use href="#square" fill="#151621" transform="translate(400 -100)" />
-    <use href="#square" fill="#43444f" transform="translate(800 -100)" />
-    <use href="#square" fill="#393a45" transform="translate(1200 -100)" />
-    <use href="#square" fill="#1b1c27" transform="translate(1600 -100)" />
+    <use href="#square" fill="#212234" transform="translate(400 -100)" />
+    <use href="#square" fill="#212234" transform="translate(800 -100)" />
+    <use href="#square" fill="#353945" transform="translate(1200 -100)" />
+    <use href="#square" fill="#4a5057" transform="translate(1600 -100)" />
 </svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Dracula by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+Scheme: Dracula by Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
 
 Wallpaper: clover pattern.
 
@@ -37,7 +37,7 @@ Assets:
             <use href="#clover" fill="black" transform="scale(0.7) translate(21 21)" />
         </mask>
         <pattern id="clover-pattern" width="600" height="600" patternTransform="scale(0.32)" patternUnits="userSpaceOnUse" >
-            <g stroke="none" fill="#ea51b2">
+            <g stroke="none" fill="#ff5555">
                 <use href="#clover" transform="translate(-50 -50)" />
                 <use href="#clover" transform="translate(250 -50)" />
                 <use href="#clover" transform="translate(550 -50)" />
@@ -54,6 +54,6 @@ Assets:
             </g>
         </pattern>
     </defs>
-    <rect width="100%" height="100%" fill="#282936" />
+    <rect width="100%" height="100%" fill="#282a36" />
     <rect width="100%" height="100%" fill="url(#clover-pattern)" />
 </svg>

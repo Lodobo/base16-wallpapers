@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Tokyodark by Tiagovla (https://github.com/tiagovla/)
+Scheme: Tokyodark by Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 
 Debian Logo © 1999 Software in the Public Interest, Inc. 
 Licence: https://creativecommons.org/licenses/by-sa/3.0/
@@ -9,7 +9,7 @@ Licence: https://creativecommons.org/licenses/by-sa/3.0/
 
 <svg height="1080" version="1.1" viewBox="0 0 1920 1080" width="1920" xmlns="http://www.w3.org/2000/svg">
     <rect fill="#11121d" height="100%" width="100%" />
-    <g fill="#a485dd" transform="translate(-200 -200)">
+    <g fill="#ee6d85" transform="translate(-200 -200)">
         <svg height="400" viewBox="-60 -75 210 260" width="400" x="50%" xmlns="http://www.w3.org/2000/svg" y="50%">
             <path
                 d="M64.525 62.053c-4.125.058.78 2.125 6.165 2.954 1.488-1.161 2.838-2.336 4.04-3.479-3.354.821-6.765.838-10.205.525m22.14-5.52c2.457-3.389 4.246-7.102 4.878-10.939-.551 2.736-2.035 5.099-3.435 7.592-7.711 4.854-.726-2.883-.004-5.824-8.29 10.436-1.138 6.257-1.439 9.171m8.174-21.265c.497-7.428-1.462-5.08-2.121-2.245.766.4 1.377 5.237 2.121 2.245M48.883-66.264c2.201.395 4.757.698 4.398 1.224 2.407-.528 2.954-1.015-4.398-1.224" />

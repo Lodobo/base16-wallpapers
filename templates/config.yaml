@@ -70,3 +70,6 @@ triangles:
 stars:
   extension: .svg
   output: build/stars
+periodic_table:
+  extension: .svg
+  output: build/periodic_table

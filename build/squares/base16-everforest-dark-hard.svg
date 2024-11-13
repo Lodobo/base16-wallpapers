@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Everforest Dark Hard by Oskar Liew (https://github.com/OskarLiew)
+Scheme: Everforest Dark Hard by Sainnhe Park (https://github.com/sainnhe)
 
 Logo: Squares (c) Lodobo 2024
 
@@ -19,12 +19,12 @@ Logo: Squares (c) Lodobo 2024
     </svg>
     </defs>
     <g id="drawing" transform="translate(360 390)" >
-    <use href="#square" transform="translate(0 0)" fill="#7fbbb3" />
-    <use href="#square" transform="translate(150 0)" fill="#d699b6" />
+    <use href="#square" transform="translate(0 0)" fill="#e67e80" />
+    <use href="#square" transform="translate(150 0)" fill="#e69875" />
     <use href="#square" transform="translate(300 0)" fill="#dbbc7f" />
-    <use href="#square" transform="translate(450 0)" fill="#83c092" />
-    <use href="#square" transform="translate(600 0)" fill="#e69875" />
-    <use href="#square" transform="translate(750 0)" fill="#a7c080" />
-    <use href="#square" transform="translate(900 0)" fill="#e67e80" />
+    <use href="#square" transform="translate(450 0)" fill="#a7c080" />
+    <use href="#square" transform="translate(600 0)" fill="#83c092" />
+    <use href="#square" transform="translate(750 0)" fill="#7fbbb3" />
+    <use href="#square" transform="translate(900 0)" fill="#d699b6" />
     </g>
 </svg>

@@ -8,7 +8,7 @@ Logo: Squares (c) Lodobo 2024
 -->
 
 <svg version="1.1" viewBox="0 0 1920 1080" width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#2f383e" height="100%" width="100%" />
+    <rect fill="#2d353b" height="100%" width="100%" />
 
     <defs>
     <svg id="square" width="300" height="300" viewBox="0 0 500 500">
@@ -19,12 +19,12 @@ Logo: Squares (c) Lodobo 2024
     </svg>
     </defs>
     <g id="drawing" transform="translate(360 390)" >
-    <use href="#square" transform="translate(0 0)" fill="#7fbbb3" />
-    <use href="#square" transform="translate(150 0)" fill="#d699b6" />
+    <use href="#square" transform="translate(0 0)" fill="#e67e80" />
+    <use href="#square" transform="translate(150 0)" fill="#e69875" />
     <use href="#square" transform="translate(300 0)" fill="#dbbc7f" />
-    <use href="#square" transform="translate(450 0)" fill="#83c092" />
-    <use href="#square" transform="translate(600 0)" fill="#e69875" />
-    <use href="#square" transform="translate(750 0)" fill="#a7c080" />
-    <use href="#square" transform="translate(900 0)" fill="#e67e80" />
+    <use href="#square" transform="translate(450 0)" fill="#a7c080" />
+    <use href="#square" transform="translate(600 0)" fill="#83c092" />
+    <use href="#square" transform="translate(750 0)" fill="#7fbbb3" />
+    <use href="#square" transform="translate(900 0)" fill="#d699b6" />
     </g>
 </svg>

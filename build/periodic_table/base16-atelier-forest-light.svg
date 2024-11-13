@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 
+Base16-wallpaper project by Lodobo, https://github.com/Lodobo
+Scheme: Atelier Forest Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+Wallpaper: Periodic Table (c) Lodobo 2024
+-->
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="square" width="94" height="94" viewBox="0 0 100 100">
+            <rect x="1" y="1" fill="none" height="93" id="square" stroke-width="2" width="93" />
+        </symbol>
+    </defs>
+    <rect fill="#f1efee" height="100%" width="100%" />
+    <g transform="translate(-750 -400)">
+        <svg x="50%" y="50%" width="1500" height="800" viewBox="-1 -1 1795 945">
+            <text fill="#68615e" font-family="Helvetica">
+                <tspan font-size="12" x="245" y="112">Atomic Number</tspan>
+                <tspan font-size="12" x="460" y="112">Atomic Weight</tspan>
+                <tspan font-size="12" x="460" y="140">Symbol</tspan>
+                <tspan font-size="12" x="460" y="180">Name</tspan>
+            </text>
+            <g transform="translate(350,100)">
+                <use href="#square" stroke="#68615e" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#68615e" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="16" y="12">8</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">0</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Oxygen</tspan>
+                        <tspan font-size="12" x="62" y="12">15.999</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g font-family="Helvetica" font-size="14" transform="translate(650 100)">
+                <rect fill="#c33ff3" width="16" height="16" x="0" y="0" />
+                <text fill="#68615e" x="25" y="15">Alkali Metals</text>
+                <rect fill="#3d97b8" width="16" height="16" x="0" y="30" />
+                <text fill="#68615e" x="25" y="45">Alkaline-earth metals</text>
+                <rect fill="#f22c40" width="16" height="16" x="0" y="60" />
+                <text fill="#68615e" x="25" y="75">Transition metals</text>
+                <rect fill="#407ee7" width="16" height="16" x="0" y="90" />
+                <text fill="#68615e" x="25" y="105">Post-transition metals</text>
+                <rect fill="#7b9726" width="16" height="16" x="190" y="0" />
+                <text fill="#68615e" x="215" y="15">Lanthanoids</text>
+                <rect fill="#6666ea" width="16" height="16" x="190" y="30" />
+                <text fill="#68615e" x="215" y="45">Actinoids</text>
+                <rect fill="#c38418" width="16" height="16" x="190" y="60" />
+                <text fill="#68615e" x="215" y="75">Metalloids</text>
+                <rect fill="#df5320" width="16" height="16" x="320" y="60" />
+                <text fill="#68615e" x="345" y="75">Halogens</text>
+                <rect fill="#9c9491" width="16" height="16" x="320" y="0" />
+                <text fill="#68615e" x="345" y="15">Reactive nonmetals</text>
+                <rect fill="#766e6b" width="16" height="16" x="320" y="30" />
+                <text fill="#68615e" x="345" y="45">Noble Gases</text>
+            </g>
+            <g transform="translate(0,0)">
+                <use href="#square" id="Hydrogen" stroke="#9c9491" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#9c9491" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="15" y="12">1</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">H</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Hydrogen</tspan>
+                        <tspan font-size="12" x="62" y="12"> 1.008</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(0,100)">
+                <use href="#square" id="Lithium" stroke="#c33ff3" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c33ff3" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="15" y="12">3</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Li</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Lithium</tspan>
+                        <tspan font-size="12" x="62" y="12">6.941</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(0,200)">
+                <use href="#square" id="Sodium" stroke="#c33ff3" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c33ff3" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">11</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Na</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Sodium</tspan>
+                        <tspan font-size="12" x="62" y="12">22.990</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(0,300)">
+                <use href="#square" id="Potassium" stroke="#c33ff3" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c33ff3" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">19</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">K</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Potassium</tspan>
+                        <tspan font-size="12" x="62" y="12">39.098</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(0,400)">
+                <use href="#square" id="Rubidium" stroke="#c33ff3" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c33ff3" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">37</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Rb</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Rubidium</tspan>
+                        <tspan font-size="12" x="62" y="12">85.468</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(0,500)">
+                <use href="#square" id="Cesium" stroke="#c33ff3" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c33ff3" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">55</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Cs</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Cesium</tspan>
+                        <tspan font-size="12" x="62" y="12">132.906</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(0,600)">
+                <use href="#square" id="Francium" stroke="#c33ff3" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c33ff3" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">87</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Fr</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Francium</tspan>
+                        <tspan font-size="12" x="62" y="12">223.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(100,100)">
+                <use href="#square" id="Beryllium" stroke="#3d97b8" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#3d97b8" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="16" y="12">4</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Be</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Beryllium</tspan>
+                        <tspan font-size="12" x="62" y="12">9.012</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(100,200)">
+                <use href="#square" id="Magnesium" stroke="#3d97b8" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#3d97b8" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">12</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Mg</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Magnesium</tspan>
+                        <tspan font-size="12" x="62" y="12">24.305</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(100,300)">
+                <use href="#square" id="Calcium" stroke="#3d97b8" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#3d97b8" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">20</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ca</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Calcium</tspan>
+                        <tspan font-size="12" x="62" y="12">40.078</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(100,400)">
+                <use href="#square" id="Strontium" stroke="#3d97b8" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#3d97b8" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">38</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Sr</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Strontium</tspan>
+                        <tspan font-size="12" x="62" y="12">87.620</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(100,500)">
+                <use href="#square" id="Barium" stroke="#3d97b8" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#3d97b8" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">56</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ba</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Barium</tspan>
+                        <tspan font-size="12" x="62" y="12">137.327</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(100,600)">
+                <use href="#square" id="Radium" stroke="#3d97b8" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#3d97b8" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">88</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ra</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Radium</tspan>
+                        <tspan font-size="12" x="62" y="12">226.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(200,300)">
+                <use href="#square" id="Scandium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">21</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Sc</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Scandium</tspan>
+                        <tspan font-size="12" x="62" y="12">44.956</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(200,400)">
+                <use href="#square" id="Yttrium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">39</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Y</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Yttrium</tspan>
+                        <tspan font-size="12" x="62" y="12">88.906</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(200,500)">
+                <use href="#square" id="Lanthanides" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="27" y="12">57-71</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold" />
+                        <tspan font-size="12" x="48.5" y="75.5">Lanthanides</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(200,600)">
+                <use href="#square" id="Actinides" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="30" y="12">89-103</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold" />
+                        <tspan font-size="12" x="48.5" y="75.5">Actinides</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(300,300)">
+                <use href="#square" id="Titanium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">22</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ti</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Titanium</tspan>
+                        <tspan font-size="12" x="62" y="12">47.867</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(300,400)">
+                <use href="#square" id="Zirconium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">40</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Zr</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Zirconium</tspan>
+                        <tspan font-size="12" x="62" y="12">91.224</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(300,500)">
+                <use href="#square" id="Hafnium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">72</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Hf</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Hafnium</tspan>
+                        <tspan font-size="12" x="62" y="12">178.490</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(300,600)">
+                <use href="#square" id="Rutherfordium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">104</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Rf</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Rutherfordium</tspan>
+                        <tspan font-size="12" x="62" y="12">261.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(400,300)">
+                <use href="#square" id="Vanadium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">23</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">V</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Vanadium</tspan>
+                        <tspan font-size="12" x="62" y="12">50.942</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(400,400)">
+                <use href="#square" id="Niobium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">41</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Nb</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Niobium</tspan>
+                        <tspan font-size="12" x="62" y="12">92.906</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(400,500)">
+                <use href="#square" id="Tantalum" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">73</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ta</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Tantalum</tspan>
+                        <tspan font-size="12" x="62" y="12">180.948</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(400,600)">
+                <use href="#square" id="Dubnium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">105</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Db</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Dubnium</tspan>
+                        <tspan font-size="12" x="62" y="12">262.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(500,300)">
+                <use href="#square" id="Chromium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">24</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Cr</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Chromium</tspan>
+                        <tspan font-size="12" x="62" y="12">51.996</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(500,400)">
+                <use href="#square" id="Molybdenum" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">42</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Mo</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Molybdenum</tspan>
+                        <tspan font-size="12" x="62" y="12">54.938</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(500,500)">
+                <use href="#square" id="Tungsten" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">74</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">W</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Tungsten</tspan>
+                        <tspan font-size="12" x="62" y="12">180.948</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(500, 600)">
+                <use href="#square" id="Seaborgium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">106</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Sg</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Seaborgium</tspan>
+                        <tspan font-size="12" x="62" y="12">266.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(600,300)">
+                <use href="#square" id="Manganese" stroke="#f22c40" />
+                <svg height="93" width="93">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">25</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Mn</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Manganese</tspan>
+                        <tspan font-size="12" x="62" y="12">54.938</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(600, 400)">
+                <use href="#square" id="Technetium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">43</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Tc</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Technetium</tspan>
+                        <tspan font-size="12" x="62" y="12">98.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(600,500)">
+                <use href="#square" id="Rhenium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">75</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Re</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Rhenium</tspan>
+                        <tspan font-size="12" x="62" y="12">186.207</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(600,600)">
+                <use href="#square" id="Bohrium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">107</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Bh</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Bohrium</tspan>
+                        <tspan font-size="12" x="62" y="12">264.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(700,300)">
+                <use href="#square" id="Iron" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">26</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Fe</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Iron</tspan>
+                        <tspan font-size="12" x="62" y="12">55.845</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(700,400)">
+                <use href="#square" id="Ruthenium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">44</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ru</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Ruthenium</tspan>
+                        <tspan font-size="12" x="62" y="12">101.070</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(700,500)">
+                <use href="#square" id="Osmium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">76</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Os</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Osmium</tspan>
+                        <tspan font-size="12" x="62" y="12">190.230</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(700,600)">
+                <use href="#square" id="Hassium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">108</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Hs</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Hassium</tspan>
+                        <tspan font-size="12" x="62" y="12">277.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(800,300)">
+                <use href="#square" id="Cobalt" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">27</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Co</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Cobalt</tspan>
+                        <tspan font-size="12" x="62" y="12">58.933</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(800,400)">
+                <use href="#square" id="Rhodium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">45</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Rh</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Rhodium</tspan>
+                        <tspan font-size="12" x="62" y="12">102.906</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(800,500)">
+                <use href="#square" id="Iridium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">77</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ir</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Iridium</tspan>
+                        <tspan font-size="12" x="62" y="12">192.217</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(800,600)">
+                <use href="#square" id="Meitnerium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">109</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Mt</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Meitnerium</tspan>
+                        <tspan font-size="12" x="62" y="12">278.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(900,300)">
+                <use href="#square" id="Nickel" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">28</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ni</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Nickel</tspan>
+                        <tspan font-size="12" x="62" y="12">58.693</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(900,400)">
+                <use href="#square" id="Palladium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">46</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Pd</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Palladium</tspan>
+                        <tspan font-size="12" x="62" y="12">106.420</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(900,500)">
+                <use href="#square" id="Platinum" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">78</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Pt</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Platinum</tspan>
+                        <tspan font-size="12" x="62" y="12">195.078</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(900,600)">
+                <use href="#square" id="Darmstadtium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">110</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ds</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Darmstadtium</tspan>
+                        <tspan font-size="12" x="62" y="12">281.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1000,300)">
+                <use href="#square" id="Copper" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">29</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Cu</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Copper</tspan>
+                        <tspan font-size="12" x="62" y="12">63.546</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1000, 400)">
+                <use href="#square" id="Silver" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">47</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ag</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Silver</tspan>
+                        <tspan font-size="12" x="62" y="12">107.868</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1000, 500)">
+                <use href="#square" id="Gold" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">79</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Au</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Gold</tspan>
+                        <tspan font-size="12" x="62" y="12">196.967</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1000, 600)">
+                <use href="#square" id="Roentgenium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">111</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Rg</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Roentgenium</tspan>
+                        <tspan font-size="12" x="62" y="12">282.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1100, 300)">
+                <use href="#square" id="Zinc" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">30</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Zn</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Zinc</tspan>
+                        <tspan font-size="12" x="62" y="12">65.390</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1100, 400)">
+                <use href="#square" id="Cadmium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">48</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Cd</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Cadmium</tspan>
+                        <tspan font-size="12" x="62" y="12">112.411</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1100, 500)">
+                <use href="#square" id="Mercury" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">80</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Hg</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Mercury</tspan>
+                        <tspan font-size="12" x="62" y="12">200.590</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1100, 600)">
+                <use href="#square" id="Copernicium" stroke="#f22c40" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#f22c40" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">112</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Cn</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Copernicium</tspan>
+                        <tspan font-size="12" x="62" y="12">285.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1200,100)">
+                <use href="#square" id="Boron" stroke="#c38418" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c38418" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">5</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">B</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Boron</tspan>
+                        <tspan font-size="12" x="62" y="12">10.811</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1200,200)">
+                <use href="#square" id="Aluminum" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">13</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Al</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Aluminum</tspan>
+                        <tspan font-size="12" x="62" y="12">26.982</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1200, 300)">
+                <use href="#square" id="Gallium" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">31</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ga</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Gallium</tspan>
+                        <tspan font-size="12" x="62" y="12">69.723</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1200, 400)">
+                <use href="#square" id="Indium" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">49</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">In</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Indium</tspan>
+                        <tspan font-size="12" x="62" y="12">114.818</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1200, 500)">
+                <use href="#square" id="Thallium" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">81</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Tl</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Thallium</tspan>
+                        <tspan font-size="12" x="62" y="12">204.383</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1200, 600)">
+                <use href="#square" id="Nihonium" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">113</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Nh</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Nihonium</tspan>
+                        <tspan font-size="12" x="62" y="12">286.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1300, 100)">
+                <use href="#square" id="Carbon" stroke="#9c9491" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#9c9491" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">6</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">C</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Carbon</tspan>
+                        <tspan font-size="12" x="62" y="12">12.011</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1300, 200)">
+                <use href="#square" id="Silicon" stroke="#c38418" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c38418" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">14</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Si</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Silicon</tspan>
+                        <tspan font-size="12" x="62" y="12">28.086</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1300, 300)">
+                <use href="#square" id="Germanium" stroke="#c38418" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c38418" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">32</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ge</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Germanium</tspan>
+                        <tspan font-size="12" x="62" y="12">72.640</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1300, 400)">
+                <use href="#square" id="Tin" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">50</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Sn</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Tin</tspan>
+                        <tspan font-size="12" x="62" y="12">118.710</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1300, 500)">
+                <use href="#square" id="Lead" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">82</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Pb</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Lead</tspan>
+                        <tspan font-size="12" x="62" y="12">207.200</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1300, 600)">
+                <use href="#square" id="Flerovium" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">114</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Fl</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Flerovium</tspan>
+                        <tspan font-size="12" x="62" y="12">289.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1400, 100)">
+                <use href="#square" id="Nitrogen" stroke="#9c9491" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#9c9491" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">7</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">N</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Nitrogen</tspan>
+                        <tspan font-size="12" x="62" y="12">14.007</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1400, 200)">
+                <use href="#square" id="Phosphorus" stroke="#9c9491" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#9c9491" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">15</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">P</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Phosphorus</tspan>
+                        <tspan font-size="12" x="62" y="12">30.974</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1400, 300)">
+                <use href="#square" id="Arsenic" stroke="#c38418" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c38418" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">33</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">As</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Arsenic</tspan>
+                        <tspan font-size="12" x="62" y="12">74.922</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1400, 400)">
+                <use href="#square" id="Antimony" stroke="#c38418" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c38418" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">51</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Sb</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Antimony</tspan>
+                        <tspan font-size="12" x="62" y="12">121.760</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1400, 500)">
+                <use href="#square" id="Bismuth" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">83</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Bi</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Bismuth</tspan>
+                        <tspan font-size="12" x="62" y="12">208.980</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1400, 600)">
+                <use href="#square" id="Moscovium" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">115</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Mc</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Moscovium</tspan>
+                        <tspan font-size="12" x="62" y="12">290.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1500, 100)">
+                <use href="#square" id="Oxygen" stroke="#9c9491" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#9c9491" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">8</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">O</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Oxygen</tspan>
+                        <tspan font-size="12" x="62" y="12">15.999</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1500, 200)">
+                <use href="#square" id="Sulfur" stroke="#9c9491" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#9c9491" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">16</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">S</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Sulfur</tspan>
+                        <tspan font-size="12" x="62" y="12">32.065</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1500, 300)">
+                <use href="#square" id="Selenium" stroke="#9c9491" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#9c9491" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">34</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Se</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Selenium</tspan>
+                        <tspan font-size="12" x="62" y="12">78.960</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1500, 400)">
+                <use href="#square" id="Tellurium" stroke="#c38418" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#c38418" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">52</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Te</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Tellurium</tspan>
+                        <tspan font-size="12" x="62" y="12">127.600</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1500, 500)">
+                <use href="#square" id="Polonium" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">84</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Po</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Polonium</tspan>
+                        <tspan font-size="12" x="62" y="12">209.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1500, 600)">
+                <use href="#square" id="Livermorium" stroke="#407ee7" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#407ee7" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">116</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Lv</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Livermorium</tspan>
+                        <tspan font-size="12" x="62" y="12">293.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1600, 100)">
+                <use href="#square" id="Fluorine" stroke="#df5320" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#df5320" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">9</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">F</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Fluorine</tspan>
+                        <tspan font-size="12" x="62" y="12">18.998</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1600, 200)">
+                <use href="#square" id="Chlorine" stroke="#df5320" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#df5320" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">17</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Cl</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Chlorine</tspan>
+                        <tspan font-size="12" x="62" y="12">35.453</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1600, 300)">
+                <use href="#square" id="Bromine" stroke="#df5320" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#df5320" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">35</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Br</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Bromine</tspan>
+                        <tspan font-size="12" x="62" y="12">79.904</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1600, 400)">
+                <use href="#square" id="Iodine" stroke="#df5320" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#df5320" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">53</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">I</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Iodine</tspan>
+                        <tspan font-size="12" x="62" y="12">126.905</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1600, 500)">
+                <use href="#square" id="Astatine" stroke="#df5320" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#df5320" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">85</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">At</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Astatine</tspan>
+                        <tspan font-size="12" x="62" y="12">210.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1600, 600)">
+                <use href="#square" id="Tennessine" stroke="#df5320" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#df5320" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">117</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ts</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Tennessine</tspan>
+                        <tspan font-size="12" x="62" y="12">294.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1700, 0)">
+                <use href="#square" id="Helium" stroke="#766e6b" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#766e6b" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">2</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">He</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Helium</tspan>
+                        <tspan font-size="12" x="62" y="12">4.003</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1700, 100)">
+                <use href="#square" id="Neon" stroke="#766e6b" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#766e6b" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">10</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ne</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Neon</tspan>
+                        <tspan font-size="12" x="62" y="12">20.180</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1700, 200)">
+                <use href="#square" id="Argon" stroke="#766e6b" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#766e6b" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">18</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ar</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Argon</tspan>
+                        <tspan font-size="12" x="62" y="12">39.948</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1700, 300)">
+                <use href="#square" id="Krypton" stroke="#766e6b" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#766e6b" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">36</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Kr</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Krypton</tspan>
+                        <tspan font-size="12" x="62" y="12">83.800</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1700, 400)">
+                <use href="#square" id="Xenon" stroke="#766e6b" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#766e6b" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">54</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Xe</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Xenon</tspan>
+                        <tspan font-size="12" x="62" y="12">131,293</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1700, 500)">
+                <use href="#square" id="Radon" stroke="#766e6b" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#766e6b" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">86</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Rn</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Radon</tspan>
+                        <tspan font-size="12" x="62" y="12">222.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1700, 600)">
+                <use href="#square" id="Oganesson" stroke="#766e6b" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#766e6b" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">118</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Og</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Oganesson</tspan>
+                        <tspan font-size="12" x="62" y="12">294.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(200, 750)">
+                <use href="#square" id="Lanthanum" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">57</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">La</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Lanthanum</tspan>
+                        <tspan font-size="12" x="62" y="12">138.906</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(300, 750)">
+                <use href="#square" id="Cerium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">58</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ce</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Cerium</tspan>
+                        <tspan font-size="12" x="62" y="12">140.116</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(400, 750)">
+                <use href="#square" id="Praseodymium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">59</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Pr</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Praseodymium</tspan>
+                        <tspan font-size="12" x="62" y="12">140.908</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(500, 750)">
+                <use href="#square" id="Neodymium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">60</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Nd</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Neodymium</tspan>
+                        <tspan font-size="12" x="62" y="12">144.240</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(600, 750)">
+                <use href="#square" id="Promethium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">61</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Pm</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Promethium</tspan>
+                        <tspan font-size="12" x="62" y="12">145.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(700, 750)">
+                <use href="#square" id="Samarium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">62</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Sm</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Samarium</tspan>
+                        <tspan font-size="12" x="62" y="12">150.360</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(800, 750)">
+                <use href="#square" id="Europium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">63</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Eu</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Europium</tspan>
+                        <tspan font-size="12" x="62" y="12">151.964</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(900, 750)">
+                <use href="#square" id="Gadolinium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">64</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Gd</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Gadolinium</tspan>
+                        <tspan font-size="12" x="62" y="12">157.250</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1000, 750)">
+                <use href="#square" id="Terbium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">65</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Tb</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Terbium</tspan>
+                        <tspan font-size="12" x="62" y="12">158.925</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1100, 750)">
+                <use href="#square" id="Dysprosium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">66</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Dy</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Dysprosium</tspan>
+                        <tspan font-size="12" x="62" y="12">162.500</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1200, 750)">
+                <use href="#square" id="Holmium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">67</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ho</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Holmium</tspan>
+                        <tspan font-size="12" x="62" y="12">164.930</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1300, 750)">
+                <use href="#square" id="Erbium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">68</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Er</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Erbium</tspan>
+                        <tspan font-size="12" x="62" y="12">167.259</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1400, 750)">
+                <use href="#square" id="Thulium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">69</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Tm</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Thulium</tspan>
+                        <tspan font-size="12" x="62" y="12">168.934</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1500, 750)">
+                <use href="#square" id="Ytterbium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">70</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Yb</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Ytterbium</tspan>
+                        <tspan font-size="12" x="62" y="12">173.040</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1600, 750)">
+                <use href="#square" id="Lutetium" stroke="#7b9726" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#7b9726" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">71</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Lu</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Lutetium</tspan>
+                        <tspan font-size="12" x="62" y="12">174.967</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(200, 850)">
+                <use href="#square" id="Actinium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">89</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Ac</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Actinium</tspan>
+                        <tspan font-size="12" x="62" y="12">227.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(300, 850)">
+                <use href="#square" id="Thorium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">90</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Th</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Thorium</tspan>
+                        <tspan font-size="12" x="62" y="12">232.038</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(400, 850)">
+                <use href="#square" id="Protactinium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">91</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Pa</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Protactinium</tspan>
+                        <tspan font-size="12" x="62" y="12">231.036</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(500, 850)">
+                <use href="#square" id="Uranium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">92</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">U</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Uranium</tspan>
+                        <tspan font-size="12" x="62" y="12">238.029</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(600, 850)">
+                <use href="#square" id="Neptunium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">93</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Np</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Neptunium</tspan>
+                        <tspan font-size="12" x="62" y="12">237.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(700, 850)">
+                <use href="#square" id="Plutonium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">94</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Pu</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Plutonium</tspan>
+                        <tspan font-size="12" x="62" y="12">244.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(800, 850)">
+                <use href="#square" id="Americium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">95</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Am</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Americium</tspan>
+                        <tspan font-size="12" x="62" y="12">243.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(900, 850)">
+                <use href="#square" id="Curium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">96</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Cm</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Curium</tspan>
+                        <tspan font-size="12" x="62" y="12">247.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1000, 850)">
+                <use href="#square" id="Berkelium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">97</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Bk</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Berkelium</tspan>
+                        <tspan font-size="12" x="62" y="12">247.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1100, 850)">
+                <use href="#square" id="Californium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">98</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Cf</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Californium</tspan>
+                        <tspan font-size="12" x="62" y="12">251.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1200, 850)">
+                <use href="#square" id="Einsteinium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="17" y="12">99</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Es</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Einsteinium</tspan>
+                        <tspan font-size="12" x="62" y="12">252.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1300, 850)">
+                <use href="#square" id="Fermium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">100</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Fm</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Fermium</tspan>
+                        <tspan font-size="12" x="62" y="12">257.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1400, 850)">
+                <use href="#square" id="Mendelevium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">101</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Md</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Mendelevium</tspan>
+                        <tspan font-size="12" x="62" y="12">258.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1500, 850)">
+                <use href="#square" id="Nobelium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">102</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">No</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Nobelium</tspan>
+                        <tspan font-size="12" x="62" y="12">259.000</tspan>
+                    </text>
+                </svg>
+            </g>
+            <g transform="translate(1600, 850)">
+                <use href="#square" id="Lawrencium" stroke="#6666ea" />
+                <svg height="93" width="93" xmlns="http://www.w3.org/2000/svg">
+                    <text dominant-baseline="central" fill="#6666ea" font-family="Helvetica" text-anchor="middle"
+                        white-space-collapse="collapse">
+                        <tspan font-size="12" x="19" y="12">103</tspan>
+                        <tspan font-size="40" x="48.5" y="44.5" font-weight="bold">Lr</tspan>
+                        <tspan font-size="12" x="48.5" y="75.5">Lawrencium</tspan>
+                        <tspan font-size="12" x="62" y="12">262.000</tspan>
+                    </text>
+                </svg>
+            </g>
+        </svg>
+    </g>
+</svg>

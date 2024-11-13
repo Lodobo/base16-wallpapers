@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- 
+Base16-wallpaper project by Lodobo, https://github.com/Lodobo
+Scheme: Terracotta Dark by Alexander Rossell Hayes (https://github.com/rossellhayes)
+
+Wallpaper: Pages (c) Lodobo 2024
+-->
+
+<svg version="1.1" viewBox="0 0 1920 1080" width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#241d1a" height="100%" width="100%" />
+
+    <defs>
+    <filter id="shadow">
+      <feDropShadow dx="-10" dy="10" stdDeviation="10" flood-opacity="0.4" flood-color="#000000" />
+    </filter>    
+    <rect id="square" x="0" y="0" height="2000" width="2000" filter="url(#shadow)" transform="rotate(10 960 540)" />
+    </defs>
+    <use href="#square" fill="#362b27" transform="translate(400 -100)" />
+    <use href="#square" fill="#473933" transform="translate(800 -100)" />
+    <use href="#square" fill="#594740" transform="translate(1200 -100)" />
+    <use href="#square" fill="#a78e84" transform="translate(1600 -100)" />
+</svg>

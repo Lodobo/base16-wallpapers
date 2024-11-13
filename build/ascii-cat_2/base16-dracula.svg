@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Dracula by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+Scheme: Dracula by Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
 
 Wallpaper: Rainbow ascii-cat (c) Lodobo 2024
 
-base00: "282936"
+base00: "282a36"
 base01: "e2dfe7"
 base02: "8b8792"
 base03: "7e7887"
@@ -13,12 +13,12 @@ base04: "655f6d"
 base05: "585260"
 base06: "26232a"
 base07: "19171c"
-base08: "ea51b2"
-base09: "b45bcf"
+base08: "ff5555"
+base09: "ffb86c"
 base0A: "a06e3b"
 base0B: "2a9292"
 base0C: "398bc6"
-base0D: "62d6e8"
+base0D: "80bfff"
 base0E: "955ae7"
 base0F: "bf40bf"
 
@@ -27,9 +27,9 @@ base0F: "bf40bf"
 <svg width="1920" height="1080" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <linearGradient id="grad_1" x1="50%" y1="0%" x2="50%" y2="100%">
-            <stop offset="0%" stop-color="#ea51b2" stop-opacity="1" />
-            <stop offset="55%" stop-color="#b45bcf" stop-opacity="1" />
-            <stop offset="100%" stop-color="#62d6e8" stop-opacity="1" />
+            <stop offset="0%" stop-color="#ff5555" stop-opacity="1" />
+            <stop offset="55%" stop-color="#ffb86c" stop-opacity="1" />
+            <stop offset="100%" stop-color="#80bfff" stop-opacity="1" />
         </linearGradient>
 
         <mask id="kitty-mask" x="0" y="0">
@@ -44,6 +44,6 @@ base0F: "bf40bf"
         <rect width="100%" height="100%" fill="url('#grad_1')" />
     </svg>
 
-    <rect width="100%" height="100%" fill="#282936" mask="url(#kitty-mask)" transform="scale(8)" />
+    <rect width="100%" height="100%" fill="#282a36" mask="url(#kitty-mask)" transform="scale(8)" />
 
 </svg>

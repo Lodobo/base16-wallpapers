@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Everforest Dark Hard by Oskar Liew (https://github.com/OskarLiew)
+Scheme: Everforest Dark Hard by Sainnhe Park (https://github.com/sainnhe)
 
 Wallpaper: Rainbow ascii-cat (c) Lodobo 2024
 
@@ -13,12 +13,12 @@ base04: "655f6d"
 base05: "585260"
 base06: "26232a"
 base07: "19171c"
-base08: "7fbbb3"
-base09: "d699b6"
+base08: "e67e80"
+base09: "e69875"
 base0A: "a06e3b"
 base0B: "2a9292"
 base0C: "398bc6"
-base0D: "a7c080"
+base0D: "7fbbb3"
 base0E: "955ae7"
 base0F: "bf40bf"
 
@@ -27,9 +27,9 @@ base0F: "bf40bf"
 <svg width="1920" height="1080" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <linearGradient id="grad_1" x1="50%" y1="0%" x2="50%" y2="100%">
-            <stop offset="0%" stop-color="#7fbbb3" stop-opacity="1" />
-            <stop offset="55%" stop-color="#d699b6" stop-opacity="1" />
-            <stop offset="100%" stop-color="#a7c080" stop-opacity="1" />
+            <stop offset="0%" stop-color="#e67e80" stop-opacity="1" />
+            <stop offset="55%" stop-color="#e69875" stop-opacity="1" />
+            <stop offset="100%" stop-color="#7fbbb3" stop-opacity="1" />
         </linearGradient>
 
         <mask id="kitty-mask" x="0" y="0">

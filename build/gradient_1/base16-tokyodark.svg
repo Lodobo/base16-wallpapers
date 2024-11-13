@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Tokyodark by Tiagovla (https://github.com/tiagovla/)
+Scheme: Tokyodark by Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 
 Wallpaper: Linear gradients (c) Lodobo 2024
 
@@ -11,15 +11,15 @@ Wallpaper: Linear gradients (c) Lodobo 2024
     <defs>
         <linearGradient x1="1%" y1="30%" id="grad1" gradientTransform="rotate(145)">
             <stop offset="0%" stop-color="#11121d" />
-            <stop offset="100%" stop-color="#151621" />
+            <stop offset="100%" stop-color="#212234" />
         </linearGradient>
         <linearGradient x1="0%" y1="0%" id="grad2" gradientTransform="rotate(0)">
             <stop offset="0%" stop-color="#11121d" />
-            <stop offset="100%" stop-color="#151621" />
+            <stop offset="100%" stop-color="#212234" />
         </linearGradient>
         <linearGradient x1="60%" y1="90%" id="grad3" gradientTransform="rotate(0)">
             <stop offset="0%" stop-color="#11121d" />
-            <stop offset="100%" stop-color="#151621" />
+            <stop offset="100%" stop-color="#212234" />
         </linearGradient>
     </defs>
 

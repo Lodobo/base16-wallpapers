@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Atelier Cave Light by Bram de Haan (http://atelierbramdehaan.nl)
-
+Scheme: Dracula by Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
 Wallpaper: Rainbow triangles (c) Lodobo 2024
 
 -->
@@ -13,9 +12,9 @@ Wallpaper: Rainbow triangles (c) Lodobo 2024
             <polygon points="50 15, 100 100, 0 100" />
         </symbol>
         <linearGradient id="grad_1" x1="50%" y1="0%" x2="50%" y2="100%">
-            <stop offset="0%" stop-color="#ea51b2" stop-opacity="1" />
-            <stop offset="55%" stop-color="#b45bcf" stop-opacity="1" />
-            <stop offset="100%" stop-color="#62d6e8" stop-opacity="1" />
+            <stop offset="0%" stop-color="#ff5555" stop-opacity="1" />
+            <stop offset="55%" stop-color="#ffb86c" stop-opacity="1" />
+            <stop offset="100%" stop-color="#80bfff" stop-opacity="1" />
         </linearGradient>
 
         <mask id="mask" x="0" y="0" width="1920" height="1080">
@@ -41,7 +40,7 @@ Wallpaper: Rainbow triangles (c) Lodobo 2024
     <svg id="background-gradient" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
         <rect width="100%" height="100%" fill="url('#grad_1')" />
     </svg>
-    <rect width="100%" height="100%" fill="#282936" mask="url(#mask)" />
+    <rect width="100%" height="100%" fill="#282a36" mask="url(#mask)" />
 </svg>
 
 

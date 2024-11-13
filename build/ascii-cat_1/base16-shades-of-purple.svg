@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Shades of Purple by Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+Scheme: Shades of Purple by Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
 -->
 <svg height="1080" version="1.1" viewBox="0 0 1920 1080" width="1920" xmlns="http://www.w3.org/2000/svg">
     <rect fill="#1e1e3f" height="100%" width="100%" />

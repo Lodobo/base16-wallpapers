@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- 
 Base16-wallpaper project by Lodobo, https://github.com/Lodobo
-Scheme: Tokyodark by Tiagovla (https://github.com/tiagovla/)
+Scheme: Tokyodark by Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 
 Wallpaper: Lucky Stars (c) Lodobo 2024
 
@@ -61,7 +61,7 @@ Wallpaper: Lucky Stars (c) Lodobo 2024
     </defs>
     <rect x="0" y="0" width="100%" height="100%" fill="#11121d" />
 
-    <g fill="#a485dd">
+    <g fill="#ee6d85">
         <use href="#big_star_20" width="300" height="300" x="950" y="250" />
         <use href="#big_star_5" width="200" height="200" x="100" y="100" />
         <use href="#big_star_10" width="200" height="200" x="650" y="790" />

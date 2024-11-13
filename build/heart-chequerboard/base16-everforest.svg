@@ -17,7 +17,7 @@ Original taken from Pixabay <https://pixabay.com/vectors/card-checker-chequered-
                 d="M 150.7 40 C 180.87 40 210 60.98 210 90.76 C 210 153.9 121.6 200 120 200 C 118.4 200 30 153.9 30 97.6 C 30 69.8 51.3 40 83 40 C 112 40 113.1 49.1 120 57.1 C 126.9 49.1 138.8 40 157 40 Z" />
         </mask>
         <pattern id="heart-pattern" width="240" height="240" patternUnits="userSpaceOnUse">
-            <g transform="scale(0.5)" stroke="none" fill="#7fbbb3">
+            <g transform="scale(0.5)" stroke="none" fill="#e67e80">
                 <rect id="heart-solid-outline" width="240" height="240" mask="url(#mask)" opacity="0.5" />
                 <use href="#solid-heart" transform="translate(0 240)" opacity="0.5" />
                 <path id="heart-sketch" transform="translate(240 0)"
@@ -27,6 +27,6 @@ Original taken from Pixabay <https://pixabay.com/vectors/card-checker-chequered-
             </g>
         </pattern>
     </defs>
-    <rect height="100%" width="100%" fill="#2f383e" />
+    <rect height="100%" width="100%" fill="#2d353b" />
     <rect width="100%" height="100%" fill="url(#heart-pattern)" />
 </svg>
